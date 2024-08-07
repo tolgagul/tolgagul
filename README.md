@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tolga</h1>
 <h3 align="center">I'm a Software Test Engineer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tolgagul&label=Profile%20views&color=0e75b6&style=flat" alt="tolgagul" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tolgagul&label=Profile%20views&color=0e75b6&style=flat" alt="tolgagul" /> </p>
 
 - 🔭 I’m currently working on [Cypress](https://www.cypress.io/)
 

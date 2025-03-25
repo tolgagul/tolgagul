@@ -3,12 +3,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tolgagul&label=Profile%20views&color=0e75b6&style=flat" alt="tolgagul" /> </p>
 
-- 🔭 I’m currently working on [Cypress](https://www.cypress.io/)
+- 🔭 I’m currently working on [Cypress](https://www.cypress.io/), [Playwright](https://playwright.dev/)
 
 - 🌱 I’m currently learning **Javascript, Typescript**
-  
-- 💬 Ask me about **Cypress, Selenium, JMeter**
-  
+    
 - 👨‍💻 Know about my experiences [https://tolgagul.com.tr/](https://tolgagul.com.tr/)
 
 <h3 align="center">Connect with me</h3>
